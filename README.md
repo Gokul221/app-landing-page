@@ -6,7 +6,7 @@ This is a visually stunning frontend of a SaaS app landing page that is develope
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,9 +15,13 @@ This is a visually stunning frontend of a SaaS app landing page that is develope
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
+Viewport
 ![](./public/xora-landing-page.png)
+
+Pricing
+![](./public/xora-pricing-section.png)
 
 ### Links
 
