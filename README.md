@@ -1,8 +1,47 @@
-# React + Vite
+# Xora Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a visually stunning frontend of a SaaS app landing page that is developed using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
+
+## Overview
+
+### Screenshot
+
+![](./public/xora-landing-page.png)
+
+### Links
+
+The live site URL - [Xora Landing Page](https://saas-xora-page.netlify.app/)
+
+## My Process
+
+### Built with
+
+- React.js
+- Custom CSS classes/utilities using Tailwind CSS
+- Semantic HTML5 markup
+- Mobile-first workflow (responsive for all screen sizes)
+- React dependencies like clsx, react-collapse, countup, etc
+- Assets from JSMastery
+
+## Author
+
+- Frontend Mentor - [@Gokul221](https://www.frontendmentor.io/profile/Gokul221)
+- LinkedIn - [Gokul Bhoi](https://www.linkedin.com/in/gokul-bhoi-3b8b39188)
+
+## Acknowledgements
+
+Thanks to Adrian from JSMastery for this project guidance.
+
+
+
